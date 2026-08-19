@@ -1,6 +1,5 @@
-This project is basically a service that makes sure you don't forget things when you leave the house! When you walk up to it, it detects your face and asks where you're going. If you say something like "I'm going shopping," it will tell you exactly what you need to remember to bring.
+This project is basically a service that makes sure you don't forget things when you leave the house! When you walk up to it, it detects your face and asks where you're going. If you say something like "I'm going shopping," it will tell you exactly what you need to remember to bring. There will be a screen to display the MagicMirror where you can control your music, see the weather, read the news, and do much more!
 
-I hope you enjoy it!
   
 How It Works & What's Included
 
