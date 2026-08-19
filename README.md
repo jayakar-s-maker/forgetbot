@@ -1,6 +1,7 @@
 This project is basically a service that makes sure you don't forget things when you leave the house! When you walk up to it, it detects your face and asks where you're going. If you say something like "I'm going shopping," it will tell you exactly what you need to remember to bring.
 
 I hope you enjoy it!
+  
   How It Works & What's Included
 MagicMirror Screen: Runs a MagicMirror dashboard with custom widgets and plays music through the USB speakers.
 
