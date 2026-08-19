@@ -2,8 +2,11 @@ This project is basically a service that makes sure you don't forget things when
 
 I hope you enjoy it!
   
-  How It Works & What's Included
-MagicMirror Screen: Runs a MagicMirror dashboard with custom widgets and plays music through the USB speakers.
+How It Works & What's Included
+
+
+
+  MagicMirror Screen: Runs a MagicMirror dashboard with custom widgets and plays music through the USB speakers.
 
 AI Camera Face Detection: Uses the Raspberry Pi AI Camera to handle face detection so the Raspberry Pi 5 doesn't have to do all the hard work itself.
 
