@@ -1,20 +1,12 @@
-Name:,Price with Shipping Costs,Column 1,URL, Quantity,Purpose 
-Raspberry Pi 5 Power Supply,$21.42,https://www.adafruit.com/product/5814?src=raspberrypi,,1,To power the Rasp Pi
-Rasp Pi 5 8GB,$175,Raspberry Pi 5 – Vilros.com,,1,The Brain of my project. Will be behind screen and code executed here
-Rasp Pi Cooler,$12,https://vilros.com/products/raspberry-pi-5-active-cooler?variant=40083112198238&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqA454oQv4b1X93fmcnIsA-H66cIQTA7P3BPmHvR-pehmepGXRH4-c,,1,To cool the Rasp Pi in a enclosed area
-SD Card,$30,"SANDISK 64GB Extreme microSDXC UHS-I Memory Card with Adapter - C10, U3, V30, 4K, 5K, A2, Micro SD Card - SDSQXAH-064G-GN6MA",,1,To flash Rasp Pi OS on the Pi so it can run things like MagicMirror
-AI Camera,$77.92,https://vilros.com/products/raspberry-pi-ai-camera?src=raspberrypi,,1,To detect faces and give personalized profiles.
-Rasp PI Display,$116,Raspberry Pi Touch Display 2 - 10.1inch Portrait | PiShop.us,,1,"Display for Magic MIrror. Music, reminders, weather, news and much more will be here."
-Speaker,$19.97,Mini External USB Stereo Speaker,,1,Speaker for music and voice assistant
-USB Microphone,$10.00,"Amazon.com: Mini USB Microphone for Laptop & Desktop, Plug-and-Play | High-Sensitivity USB Mic for Clear Voice Pickup, Compact and Portable, Ideal for Work and Study",,1,Microphone so AI or Assistant can here what user is saying.
-"See-Thru / Two-Way Mirror Acrylic Sheet
-
-1/8"" / Custom
-
-Size Type: Custom Size
-Thickness: 1/8
-Width: 8
-Length: 10
-Weight: 0.430",$26,https://www.ttplasticland.com/checkouts/cn/hWNFokOKdQIAnIlJUAZJzP98/en-us?_r=AQABkd0pnNdr9FRYHyQfYN_6HWyNUKbyNnCFGMDcKxldthI&auto_redirect=false&edge_redirect=true&skip_shop_pay=true,,1,"Custom 2 way G=glass so people can see the screen, through the mirror."
-"8x10 3"" deep Reclaimed Rustic Barnwood Collectible Shadow Box",$46,"8x10 3"" deep Reclaimed Rustic Barnwood Collectible Shadow Box - Single Frames",,1,"Where all the stuff will be including screen, Rasp Pi, and glass"
-Card Stock Matte Black,$8,https://www.amazon.com/110lb-Black-Cardstock-20sheets-Weight/dp/B0F4L2Q1VT/ref=sr_1_1_sspa?crid=3KH7WMBWG2A69&dib=eyJ2IjoiMSJ9.kwzs-hJKgF6vuJ2ujEtf_XOjXklGtzQXPWow33Ap8HgFWqKMIuof_rlrO9IsMhwPti9BIotd7isAj4oYh6pPVKHJ_OBGvCbyCa-02-lQ7Nti2dKxGIKfmMtFx1GehZJhIZ7MHTzBVs3GhGo8AxLIkgtg2JxM5xorlK2pOOziKONJy33CtWxF8e-2eeixi1W70BCfQF5iwjHpfoBjO7xZBvEA-L_hI3TMeKVm6dxIJPk_KBKNqhP9SVr3mVfBi3eF5ubECuEIPD3BmzO8ik8JWg7_pC-WbMaX5_Au-IY3f8o.NdJbSvEPUI72g8FA1IQFzuvTOuk3TJWiOUs1BVr_2UA&dib_tag=se&keywords=8x10%2Bblack%2Bcardstock%2Bheavy%2Bweight%2Bmatte%22&qid=1787108115&s=arts-crafts&sprefix=8x10%2Bblack%2Bcardstock%2Bheavy%2Bweight%2Bmatte%2B%2Carts-crafts%2C116&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1,,1,To hold the screen properly behind the glass so they dont touch each other.
+Name,Price,URL,Quantity,Purpose
+Raspberry Pi 5 Power Supply,21.42,https://www.adafruit.com/product/5814?src=raspberrypi,1,Power supply for the Raspberry Pi 5
+Raspberry Pi 5 (8GB),175.00,https://vilros.com,1,Main microcomputer running the system code and MagicMirror
+Raspberry Pi 5 Active Cooler,12.00,https://vilros.com/products/raspberry-pi-5-active-cooler,1,Cools the Raspberry Pi 5 inside the enclosed frame
+SanDisk 64GB MicroSD Card,30.00,https://www.amazon.com,1,Stores Raspberry Pi OS and MagicMirror files
+Raspberry Pi AI Camera,77.92,https://vilros.com/products/raspberry-pi-ai-camera?src=raspberrypi,1,Detects faces to trigger personalized user profiles
+Raspberry Pi Touch Display 2 (10.1"),116.00,https://www.pishop.us,1,Display screen for MagicMirror widgets, music, and reminders
+Mini External USB Stereo Speaker,19.97,https://www.amazon.com,1,Audio output for music playback and voice assistant responses
+Mini USB Microphone,10.00,https://www.amazon.com,1,Microphone for voice input so the AI assistant can hear user commands
+Two-Way Mirror Acrylic Sheet (8"x10"),26.00,https://www.ttplasticland.com,1,Two-way optical panel that reflects as a mirror while passing screen light
+Reclaimed Barnwood Shadow Box (8"x10"x3"),46.00,https://www.amazon.com,1,Enclosure that holds the screen, Pi 5, wiring, and optics
+Matte Black Cardstock (110lb),8.00,https://www.amazon.com/dp/B0F4L2Q1VT,1,Masking border to hold the screen flush and block internal light leaks
