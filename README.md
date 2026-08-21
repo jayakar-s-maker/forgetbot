@@ -48,3 +48,4 @@ All components are mounted inside a **3" deep shadow box frame**, providing adeq
 ├── wiring/      <-- Connection and wiring diagrams
 ├── software/    <-- MagicMirror modules and python backend
 └── BOM.csv      <-- Complete Bill of Materials and hardware budget
+ 
