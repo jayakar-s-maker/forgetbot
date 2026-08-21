@@ -21,7 +21,7 @@ A smart mirror that recognizes who you are on approach and verbally reminds you 
 | :--- | :--- | :--- |
 | **Raspberry Pi 5** | Main computing board for MagicMirror UI & audio processing | Need Funding |
 | **Raspberry Pi AI Camera** | Onboard NPU face detection | Need Funding |
-| **3" Deep Shadow Box** | Custom physical enclosure housing Pi 5, screen, and wiring | Owned |
+| **3" Deep Shadow Box** | Custom physical enclosure housing Pi 5, screen, and wiring | Need Funding |
 | **USB Microphone** | Voice command input | Need Funding |
 | **Mini USB Speaker** | Voice prompt output | Need Funding |
 | **Active Cooler** | Pi 5 thermal management | Need Funding |
